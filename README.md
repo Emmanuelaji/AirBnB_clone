@@ -169,6 +169,6 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Selamawit Asfaw
+Selamawit Asfaw | Github: [selamawit-kassaye](mailto:selamkassaye2019@gmail.com)
 
 Emmanuel Aji Agbo | Github: [emmanuelaji](mailto:emmanuelaji32@gmail.com)
